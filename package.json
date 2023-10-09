@@ -1,0 +1,19 @@
+{
+  "name": "roomos_macro",
+  "version": "1.0.0",
+  "description": "Macro for device room OS 11.5 by Ryan Rais",
+  "main": "universal-adapter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kizaru1294989/Room_OS_Macro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kizaru1294989/Room_OS_Macro/issues"
+  },
+  "homepage": "https://github.com/Kizaru1294989/Room_OS_Macro#readme"
+}
