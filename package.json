@@ -2,7 +2,7 @@
   "name": "roomos_macro",
   "version": "1.0.0",
   "description": "Macro for device room OS 11.5 by Ryan Rais",
-  "main": "universal-adapter.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
